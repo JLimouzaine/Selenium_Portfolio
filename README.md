@@ -26,7 +26,7 @@ The `Selenium_Portfolio` project is a collection of automated test scripts desig
    git clone https://github.com/JLimouzaine/Selenium_Portfolio.git
 2. Navigate to the project directory:
 ~~~bash
-   cd Selenium_Portfolio
+cd Selenium_Portfolio
 ~~~
 3. Install the dependencies:
 ~~~bash
