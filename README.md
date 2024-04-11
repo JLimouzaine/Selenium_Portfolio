@@ -41,8 +41,8 @@ Each one of them is marked with a tag "@TC_XX" with their respective number that
 
 ## Technologies
 
--Selenium WebDriver: For automating browser interactions.
--TestNG: As the testing framework to facilitate test organization and execution.
--Cucumber: For writing tests in Gherkin language, enhancing readability and maintainability.
--Maven: For managing project dependencies and build configurations.
+- Selenium WebDriver: For automating browser interactions.
+- TestNG: As the testing framework to facilitate test organization and execution.
+- Cucumber: For writing tests in Gherkin language, enhancing readability and maintainability.
+- Maven: For managing project dependencies and build configurations.
 
