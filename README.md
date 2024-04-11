@@ -6,6 +6,8 @@ This repository contains automated test cases for various websites, showcasing S
 
 The `Selenium_Portfolio` project is a collection of automated test scripts designed to demonstrate proficiency in web automation using Selenium. The project covers a range of test scenarios on websites like ParaBank and Swag Labs, providing examples of how to automate user interactions, data-driven tests, and various assertion techniques.
 
+> **_NOTE:_** The Para Bank website is unreliable, often displaying an "Internal server error" message. I recommend checking back again in ~15 minutes and running the automation. Alternatively, you could deploy it localy directly from the [original parabank repo](https://github.com/parasoft/parabank), but I had no need to use it during development
+
 ## Getting Started
 
 ### Prerequisites
